@@ -1,6 +1,6 @@
 # Hi, I'm Anubhuti Bhardwaj 👋
 
-Final-year B.Tech Computer Science & Engineering student, interested in software development, backend engineering, machine learning, and AI-based applications.
+Final-year B.Tech Computer Science & Engineering student with hands-on experience in Python, FastAPI, Machine Learning, SQL, and web-based application development.
 
 I enjoy building practical projects that solve real problems, especially systems involving automation, resume screening, dashboards, databases, and role-based web applications.
 
