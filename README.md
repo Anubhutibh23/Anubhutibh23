@@ -14,7 +14,7 @@ I enjoy building practical projects that solve real problems, especially systems
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**Languages:** Python, C++ ,JavaScript, HTML, CSS, SQL  
 **Backend:** FastAPI, REST APIs, JWT Authentication  
 **Database:** MySQL, SQLite  
 **Frontend:** HTML, CSS, Bootstrap, JavaScript  
